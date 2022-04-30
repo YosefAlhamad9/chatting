@@ -1,0 +1,12 @@
+.app{
+   display: grid;
+   place-items: center;
+   height: 100vh;
+   background-color: #eff1f3;
+}
+
+.app__container{
+   display: flex;
+   width: 100vw;
+   height: 100vh;
+}
